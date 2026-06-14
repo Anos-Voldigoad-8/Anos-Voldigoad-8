@@ -1,6 +1,6 @@
 # Anos-Voldigoad-8 (Lakshya Srivastava)
 > 📟 *"Vegeta! What does the scouter say about Anos-Voldigoad-8 coding power level?"*
-> 💥 *"It's... INCREDIBLE! IT'S OVER NINE THOUSAAAAAND!!!"*
+*> 💥 *"It's... INCREDIBLE! IT'S OVER NINE THOUSAAAAAND!!!"*
 
 I don't plan every line of code; I code by instinct, aura, and whatever anime soundtrack is playing in my headphones. 
 
