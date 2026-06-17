@@ -17,7 +17,7 @@ I don't plan every line of code; I code by instinct, aura, and whatever anime so
 * **C** `[████████░░░░░░░░░]` ── *Kaioken x10* 🐉
   > Dangerous, raw, and hard on the memory allocation. High risk, high reward.
 
-* **HTML** `[█████████████████]` ── *Basic Genjutsu* 👁️
+* **HTML** `[███████████░░░░░░]` ── *Basic Genjutsu* 👁️
   > Making things look pretty on the front end. Simple but effective.
 
 ---
